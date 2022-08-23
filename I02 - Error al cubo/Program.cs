@@ -5,7 +5,7 @@
  * Se debe validar que el número sea mayor que cero, caso contrario, mostrar el mensaje: "ERROR. ¡Reingresar número!".
  * Tanto variables y lógica aplicada es para que el programa no rompa, independientemente de lo que ingresa el usuario. 
  */
-namespace Clase_01___Ejercicio_01
+namespace Introduccion_Ejercicio_02
 {
     internal class Program
     {

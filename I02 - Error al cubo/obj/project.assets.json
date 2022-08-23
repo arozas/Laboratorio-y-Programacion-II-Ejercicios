@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alejandro\\Documents\\Laboratorio II\\Laboratorio-y-Programacion-II-Ejercicios\\I02 - Error al cubo\\I02 - Error al cubo.csproj",
-      "projectName": "I02 - Error al cubo",
-      "projectPath": "C:\\Users\\Alejandro\\Documents\\Laboratorio II\\Laboratorio-y-Programacion-II-Ejercicios\\I02 - Error al cubo\\I02 - Error al cubo.csproj",
+      "projectUniqueName": "C:\\Users\\Alejandro\\Documents\\Laboratorio II\\Laboratorio-y-Programacion-II-Ejercicios\\I02 - Error al cubo\\Introducción - I02 - Error al cubo.csproj",
+      "projectName": "Introducción - I02 - Error al cubo",
+      "projectPath": "C:\\Users\\Alejandro\\Documents\\Laboratorio II\\Laboratorio-y-Programacion-II-Ejercicios\\I02 - Error al cubo\\Introducción - I02 - Error al cubo.csproj",
       "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Alejandro\\Documents\\Laboratorio II\\Laboratorio-y-Programacion-II-Ejercicios\\I02 - Error al cubo\\obj\\",
       "projectStyle": "PackageReference",

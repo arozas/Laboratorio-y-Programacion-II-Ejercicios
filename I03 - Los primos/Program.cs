@@ -9,7 +9,7 @@
  * IMPORTANTE:
  * Utilizar sentencias de iteración, selectivas y el operador módulo (%).
  */
-namespace Clase_01___Ejercicio_01
+namespace Introduccion_Ejercicio_03
 {
     internal class Program
     {

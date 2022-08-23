@@ -1,0 +1,16 @@
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I04 - Un número perfecto\bin\Debug\net5.0\Introducción - I04 - Un número perfecto.exe
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I04 - Un número perfecto\bin\Debug\net5.0\Introducción - I04 - Un número perfecto.deps.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I04 - Un número perfecto\bin\Debug\net5.0\Introducción - I04 - Un número perfecto.runtimeconfig.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I04 - Un número perfecto\bin\Debug\net5.0\Introducción - I04 - Un número perfecto.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I04 - Un número perfecto\bin\Debug\net5.0\Introducción - I04 - Un número perfecto.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I04 - Un número perfecto\bin\Debug\net5.0\Introducción - I04 - Un número perfecto.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I04 - Un número perfecto\obj\Debug\net5.0\Introducción - I04 - Un número perfecto.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I04 - Un número perfecto\obj\Debug\net5.0\Introducción - I04 - Un número perfecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I04 - Un número perfecto\obj\Debug\net5.0\Introducción - I04 - Un número perfecto.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I04 - Un número perfecto\obj\Debug\net5.0\Introducción - I04 - Un número perfecto.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I04 - Un número perfecto\obj\Debug\net5.0\Introducción - I04 - Un número perfecto.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I04 - Un número perfecto\obj\Debug\net5.0\Introducción - I04 - Un número perfecto.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I04 - Un número perfecto\obj\Debug\net5.0\refint\Introducción - I04 - Un número perfecto.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I04 - Un número perfecto\obj\Debug\net5.0\Introducción - I04 - Un número perfecto.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I04 - Un número perfecto\obj\Debug\net5.0\Introducción - I04 - Un número perfecto.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I04 - Un número perfecto\obj\Debug\net5.0\ref\Introducción - I04 - Un número perfecto.dll

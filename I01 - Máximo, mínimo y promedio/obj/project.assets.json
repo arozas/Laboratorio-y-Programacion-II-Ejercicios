@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alejandro\\Documents\\Laboratorio II\\Laboratorio-y-Programacion-II-Ejercicios\\I01 - Máximo, mínimo y promedio\\I01 - Máximo, mínimo y promedio.csproj",
-      "projectName": "I01 - Máximo, mínimo y promedio",
-      "projectPath": "C:\\Users\\Alejandro\\Documents\\Laboratorio II\\Laboratorio-y-Programacion-II-Ejercicios\\I01 - Máximo, mínimo y promedio\\I01 - Máximo, mínimo y promedio.csproj",
+      "projectUniqueName": "C:\\Users\\Alejandro\\Documents\\Laboratorio II\\Laboratorio-y-Programacion-II-Ejercicios\\I01 - Máximo, mínimo y promedio\\Introducción - I01 - Máximo, mínimo y promedio.csproj",
+      "projectName": "Introducción - I01 - Máximo, mínimo y promedio",
+      "projectPath": "C:\\Users\\Alejandro\\Documents\\Laboratorio II\\Laboratorio-y-Programacion-II-Ejercicios\\I01 - Máximo, mínimo y promedio\\Introducción - I01 - Máximo, mínimo y promedio.csproj",
       "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Alejandro\\Documents\\Laboratorio II\\Laboratorio-y-Programacion-II-Ejercicios\\I01 - Máximo, mínimo y promedio\\obj\\",
       "projectStyle": "PackageReference",

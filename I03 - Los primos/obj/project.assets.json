@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alejandro\\Documents\\Laboratorio II\\Laboratorio-y-Programacion-II-Ejercicios\\I03 - Los primos\\I03 - Los primos.csproj",
-      "projectName": "I03 - Los primos",
-      "projectPath": "C:\\Users\\Alejandro\\Documents\\Laboratorio II\\Laboratorio-y-Programacion-II-Ejercicios\\I03 - Los primos\\I03 - Los primos.csproj",
+      "projectUniqueName": "C:\\Users\\Alejandro\\Documents\\Laboratorio II\\Laboratorio-y-Programacion-II-Ejercicios\\I03 - Los primos\\Introducción - I03 - Los primos.csproj",
+      "projectName": "Introducción - I03 - Los primos",
+      "projectPath": "C:\\Users\\Alejandro\\Documents\\Laboratorio II\\Laboratorio-y-Programacion-II-Ejercicios\\I03 - Los primos\\Introducción - I03 - Los primos.csproj",
       "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Alejandro\\Documents\\Laboratorio II\\Laboratorio-y-Programacion-II-Ejercicios\\I03 - Los primos\\obj\\",
       "projectStyle": "PackageReference",
