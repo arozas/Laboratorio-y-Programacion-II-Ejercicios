@@ -1,0 +1,16 @@
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I02 - Error al cubo\bin\Debug\net5.0\I02 - Error al cubo.exe
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I02 - Error al cubo\bin\Debug\net5.0\I02 - Error al cubo.deps.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I02 - Error al cubo\bin\Debug\net5.0\I02 - Error al cubo.runtimeconfig.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I02 - Error al cubo\bin\Debug\net5.0\I02 - Error al cubo.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I02 - Error al cubo\bin\Debug\net5.0\I02 - Error al cubo.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I02 - Error al cubo\bin\Debug\net5.0\I02 - Error al cubo.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I02 - Error al cubo\obj\Debug\net5.0\I02 - Error al cubo.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I02 - Error al cubo\obj\Debug\net5.0\I02 - Error al cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I02 - Error al cubo\obj\Debug\net5.0\I02 - Error al cubo.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I02 - Error al cubo\obj\Debug\net5.0\I02 - Error al cubo.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I02 - Error al cubo\obj\Debug\net5.0\I02 - Error al cubo.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I02 - Error al cubo\obj\Debug\net5.0\I02 - Error al cubo.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I02 - Error al cubo\obj\Debug\net5.0\refint\I02 - Error al cubo.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I02 - Error al cubo\obj\Debug\net5.0\I02 - Error al cubo.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I02 - Error al cubo\obj\Debug\net5.0\I02 - Error al cubo.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I02 - Error al cubo\obj\Debug\net5.0\ref\I02 - Error al cubo.dll

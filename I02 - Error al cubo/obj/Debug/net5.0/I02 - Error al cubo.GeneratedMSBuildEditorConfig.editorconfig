@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = I02___Error_al_cubo
+build_property.ProjectDir = C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I02 - Error al cubo\
