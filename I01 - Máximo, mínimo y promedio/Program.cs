@@ -11,8 +11,8 @@ namespace Clase_01___Ejercicio_01
         static void Main(string[] args)
         {
             const int VUELTAS_WHILE = 5;
-            string? numeroIngresado;
-            float numeroIngresadoFloat = new float();
+            string? numeroIngresadoString;
+            float numeroIngresado = new float();
             float numeroMaximoIngresado = new float();
             float numeroMinimoIngresado = new float();
             float numeroPromedioIngresado;
@@ -21,31 +21,33 @@ namespace Clase_01___Ejercicio_01
             int contadorErrores = 0;
             int contadorVueltasWhile = 0;
             bool banderaPrimerNumero = false;
+            bool validacionNumeroIngresado = new bool();
             do
             {
                 Console.WriteLine("Ingrese un numero a continuación:");
-                numeroIngresado = Console.ReadLine();
-                if (!string.IsNullOrEmpty(numeroIngresado) && float.TryParse(numeroIngresado, out numeroIngresadoFloat))
+                numeroIngresadoString = Console.ReadLine();
+                validacionNumeroIngresado = !string.IsNullOrEmpty(numeroIngresadoString) && float.TryParse(numeroIngresadoString, out numeroIngresado);
+                if (validacionNumeroIngresado)
                 {
                     contadorIngresosCorrectos++;
-                    acumuladorNumerosIngresados+=numeroIngresadoFloat;
+                    acumuladorNumerosIngresados+=numeroIngresado;
                     if (banderaPrimerNumero == false)
                     {
-                        numeroMaximoIngresado = numeroIngresadoFloat;
-                        numeroMinimoIngresado = numeroIngresadoFloat;
+                        numeroMaximoIngresado = numeroIngresado;
+                        numeroMinimoIngresado = numeroIngresado;
                         banderaPrimerNumero = true;
                     }
                     else
                     {
-                        if (numeroMaximoIngresado < numeroIngresadoFloat)
+                        if (numeroMaximoIngresado < numeroIngresado)
                         {
-                            numeroMaximoIngresado = numeroIngresadoFloat;
+                            numeroMaximoIngresado = numeroIngresado;
                         }
                         else
                         {
-                            if (numeroMinimoIngresado > numeroIngresadoFloat)
+                            if (numeroMinimoIngresado > numeroIngresado)
                             {
-                                numeroMinimoIngresado = numeroIngresadoFloat;
+                                numeroMinimoIngresado = numeroIngresado;
                             }
                         }
                     }

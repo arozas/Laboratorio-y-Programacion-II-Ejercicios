@@ -1,0 +1,16 @@
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I03 - Los primos\obj\Debug\net5.0\I03 - Los primos.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I03 - Los primos\obj\Debug\net5.0\I03 - Los primos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I03 - Los primos\obj\Debug\net5.0\I03 - Los primos.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I03 - Los primos\obj\Debug\net5.0\I03 - Los primos.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I03 - Los primos\obj\Debug\net5.0\I03 - Los primos.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I03 - Los primos\bin\Debug\net5.0\I03 - Los primos.exe
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I03 - Los primos\bin\Debug\net5.0\I03 - Los primos.deps.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I03 - Los primos\bin\Debug\net5.0\I03 - Los primos.runtimeconfig.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I03 - Los primos\bin\Debug\net5.0\I03 - Los primos.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I03 - Los primos\bin\Debug\net5.0\I03 - Los primos.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I03 - Los primos\bin\Debug\net5.0\I03 - Los primos.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I03 - Los primos\obj\Debug\net5.0\I03 - Los primos.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I03 - Los primos\obj\Debug\net5.0\refint\I03 - Los primos.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I03 - Los primos\obj\Debug\net5.0\I03 - Los primos.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I03 - Los primos\obj\Debug\net5.0\I03 - Los primos.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I03 - Los primos\obj\Debug\net5.0\ref\I03 - Los primos.dll
