@@ -1,0 +1,16 @@
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I01 - Máximo, mínimo y promedio\bin\Debug\net5.0\I01 - Máximo, mínimo y promedio.exe
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I01 - Máximo, mínimo y promedio\bin\Debug\net5.0\I01 - Máximo, mínimo y promedio.deps.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I01 - Máximo, mínimo y promedio\bin\Debug\net5.0\I01 - Máximo, mínimo y promedio.runtimeconfig.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I01 - Máximo, mínimo y promedio\bin\Debug\net5.0\I01 - Máximo, mínimo y promedio.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I01 - Máximo, mínimo y promedio\bin\Debug\net5.0\I01 - Máximo, mínimo y promedio.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I01 - Máximo, mínimo y promedio\bin\Debug\net5.0\I01 - Máximo, mínimo y promedio.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\I01 - Máximo, mínimo y promedio.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\I01 - Máximo, mínimo y promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\I01 - Máximo, mínimo y promedio.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\I01 - Máximo, mínimo y promedio.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\I01 - Máximo, mínimo y promedio.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\I01 - Máximo, mínimo y promedio.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\refint\I01 - Máximo, mínimo y promedio.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\I01 - Máximo, mínimo y promedio.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\I01 - Máximo, mínimo y promedio.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\I01 - Máximo, mínimo y promedio\obj\Debug\net5.0\ref\I01 - Máximo, mínimo y promedio.dll
