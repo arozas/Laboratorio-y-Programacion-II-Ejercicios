@@ -1,0 +1,16 @@
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I06 - Años bisiestos\bin\Debug\net5.0\Introducción - I06 - Años bisiestos.exe
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I06 - Años bisiestos\bin\Debug\net5.0\Introducción - I06 - Años bisiestos.deps.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I06 - Años bisiestos\bin\Debug\net5.0\Introducción - I06 - Años bisiestos.runtimeconfig.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I06 - Años bisiestos\bin\Debug\net5.0\Introducción - I06 - Años bisiestos.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I06 - Años bisiestos\bin\Debug\net5.0\Introducción - I06 - Años bisiestos.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I06 - Años bisiestos\bin\Debug\net5.0\Introducción - I06 - Años bisiestos.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I06 - Años bisiestos\obj\Debug\net5.0\Introducción - I06 - Años bisiestos.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I06 - Años bisiestos\obj\Debug\net5.0\Introducción - I06 - Años bisiestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I06 - Años bisiestos\obj\Debug\net5.0\Introducción - I06 - Años bisiestos.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I06 - Años bisiestos\obj\Debug\net5.0\Introducción - I06 - Años bisiestos.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I06 - Años bisiestos\obj\Debug\net5.0\Introducción - I06 - Años bisiestos.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I06 - Años bisiestos\obj\Debug\net5.0\Introducción - I06 - Años bisiestos.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I06 - Años bisiestos\obj\Debug\net5.0\refint\Introducción - I06 - Años bisiestos.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I06 - Años bisiestos\obj\Debug\net5.0\Introducción - I06 - Años bisiestos.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I06 - Años bisiestos\obj\Debug\net5.0\Introducción - I06 - Años bisiestos.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I06 - Años bisiestos\obj\Debug\net5.0\ref\Introducción - I06 - Años bisiestos.dll

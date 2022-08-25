@@ -5,11 +5,15 @@ VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Introducción - I01 - Máximo, mínimo y promedio", "I01 - Máximo, mínimo y promedio\Introducción - I01 - Máximo, mínimo y promedio.csproj", "{58289EBB-AE1B-41A9-B132-CD0FEF3C14AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introducción - I02 - Error al cubo", "I02 - Error al cubo\Introducción - I02 - Error al cubo.csproj", "{52740B4C-3970-4A66-B7C7-1FBADEB54768}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Introducción - I02 - Error al cubo", "I02 - Error al cubo\Introducción - I02 - Error al cubo.csproj", "{52740B4C-3970-4A66-B7C7-1FBADEB54768}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introducción - I03 - Los primos", "I03 - Los primos\Introducción - I03 - Los primos.csproj", "{2F50FC65-536E-4E2B-89BF-138E2A3279BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Introducción - I03 - Los primos", "I03 - Los primos\Introducción - I03 - Los primos.csproj", "{2F50FC65-536E-4E2B-89BF-138E2A3279BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introducción - I04 - Un número perfecto", "Introducción - I04 - Un número perfecto\Introducción - I04 - Un número perfecto.csproj", "{840700AA-547F-4C5E-8B88-B2A732D53278}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Introducción - I04 - Un número perfecto", "Introducción - I04 - Un número perfecto\Introducción - I04 - Un número perfecto.csproj", "{840700AA-547F-4C5E-8B88-B2A732D53278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introducción - I05 - Tirame un centro", "Introducción - I05 - Tirame un centro\Introducción - I05 - Tirame un centro.csproj", "{93DBC5B4-5A15-4F20-A994-F73558733F7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introducción - I06 - Años bisiestos", "Introducción - I06 - Años bisiestos\Introducción - I06 - Años bisiestos.csproj", "{630629F7-C64D-4AC4-907F-2F449FB79212}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{840700AA-547F-4C5E-8B88-B2A732D53278}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{840700AA-547F-4C5E-8B88-B2A732D53278}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{840700AA-547F-4C5E-8B88-B2A732D53278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93DBC5B4-5A15-4F20-A994-F73558733F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93DBC5B4-5A15-4F20-A994-F73558733F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93DBC5B4-5A15-4F20-A994-F73558733F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93DBC5B4-5A15-4F20-A994-F73558733F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{630629F7-C64D-4AC4-907F-2F449FB79212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630629F7-C64D-4AC4-907F-2F449FB79212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630629F7-C64D-4AC4-907F-2F449FB79212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630629F7-C64D-4AC4-907F-2F449FB79212}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

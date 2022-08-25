@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Introducción - I06 - Años bisiestos/1.0.0": {
+        "runtime": {
+          "Introducción - I06 - Años bisiestos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Introducción - I06 - Años bisiestos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
