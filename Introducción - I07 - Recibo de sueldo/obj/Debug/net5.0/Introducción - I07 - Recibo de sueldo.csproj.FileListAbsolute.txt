@@ -1,0 +1,16 @@
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I07 - Recibo de sueldo\bin\Debug\net5.0\Introducción - I07 - Recibo de sueldo.exe
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I07 - Recibo de sueldo\bin\Debug\net5.0\Introducción - I07 - Recibo de sueldo.deps.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I07 - Recibo de sueldo\bin\Debug\net5.0\Introducción - I07 - Recibo de sueldo.runtimeconfig.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I07 - Recibo de sueldo\bin\Debug\net5.0\Introducción - I07 - Recibo de sueldo.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I07 - Recibo de sueldo\bin\Debug\net5.0\Introducción - I07 - Recibo de sueldo.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I07 - Recibo de sueldo\bin\Debug\net5.0\Introducción - I07 - Recibo de sueldo.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I07 - Recibo de sueldo\obj\Debug\net5.0\Introducción - I07 - Recibo de sueldo.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I07 - Recibo de sueldo\obj\Debug\net5.0\Introducción - I07 - Recibo de sueldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I07 - Recibo de sueldo\obj\Debug\net5.0\Introducción - I07 - Recibo de sueldo.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I07 - Recibo de sueldo\obj\Debug\net5.0\Introducción - I07 - Recibo de sueldo.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I07 - Recibo de sueldo\obj\Debug\net5.0\Introducción - I07 - Recibo de sueldo.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I07 - Recibo de sueldo\obj\Debug\net5.0\Introducción - I07 - Recibo de sueldo.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I07 - Recibo de sueldo\obj\Debug\net5.0\refint\Introducción - I07 - Recibo de sueldo.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I07 - Recibo de sueldo\obj\Debug\net5.0\Introducción - I07 - Recibo de sueldo.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I07 - Recibo de sueldo\obj\Debug\net5.0\Introducción - I07 - Recibo de sueldo.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Introducción - I07 - Recibo de sueldo\obj\Debug\net5.0\ref\Introducción - I07 - Recibo de sueldo.dll

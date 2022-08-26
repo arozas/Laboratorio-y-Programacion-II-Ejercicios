@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Introducción - I07 - Recibo de sueldo/1.0.0": {
+        "runtime": {
+          "Introducción - I07 - Recibo de sueldo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Introducción - I07 - Recibo de sueldo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

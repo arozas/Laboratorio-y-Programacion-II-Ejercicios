@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Introducción - I03 - Los p
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Introducción - I04 - Un número perfecto", "Introducción - I04 - Un número perfecto\Introducción - I04 - Un número perfecto.csproj", "{840700AA-547F-4C5E-8B88-B2A732D53278}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introducción - I05 - Tirame un centro", "Introducción - I05 - Tirame un centro\Introducción - I05 - Tirame un centro.csproj", "{93DBC5B4-5A15-4F20-A994-F73558733F7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Introducción - I05 - Tirame un centro", "Introducción - I05 - Tirame un centro\Introducción - I05 - Tirame un centro.csproj", "{93DBC5B4-5A15-4F20-A994-F73558733F7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introducción - I06 - Años bisiestos", "Introducción - I06 - Años bisiestos\Introducción - I06 - Años bisiestos.csproj", "{630629F7-C64D-4AC4-907F-2F449FB79212}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Introducción - I06 - Años bisiestos", "Introducción - I06 - Años bisiestos\Introducción - I06 - Años bisiestos.csproj", "{630629F7-C64D-4AC4-907F-2F449FB79212}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introducción - I07 - Recibo de sueldo", "Introducción - I07 - Recibo de sueldo\Introducción - I07 - Recibo de sueldo.csproj", "{3900D8C4-CAA4-4F44-BFA3-311DB8D0B477}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{630629F7-C64D-4AC4-907F-2F449FB79212}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{630629F7-C64D-4AC4-907F-2F449FB79212}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{630629F7-C64D-4AC4-907F-2F449FB79212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3900D8C4-CAA4-4F44-BFA3-311DB8D0B477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3900D8C4-CAA4-4F44-BFA3-311DB8D0B477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3900D8C4-CAA4-4F44-BFA3-311DB8D0B477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3900D8C4-CAA4-4F44-BFA3-311DB8D0B477}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

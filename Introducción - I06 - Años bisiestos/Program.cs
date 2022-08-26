@@ -2,15 +2,20 @@
 
 namespace Introducción___I06___Años_bisiestos
 {
+    /*ALEJANDRO ALBERTO MARTÍN ROZAS
+    * Ejercicio I06 - Años bisiestos
+    * Un año es bisiesto si es múltiplo de 4. Los años múltiplos de 100 no son bisiestos, salvo si ellos también son múltiplos de 400. Por ejemplo: el año 2000 es bisiesto pero 1900 no.
+    * Pedirle al usuario un año de inicio y otro de fin y mostrar todos los años bisiestos en ese rango.
+    * IMPORTANTE
+    * Utilizar sentencias de iteración, selectivas y el operador módulo (%).
+    */
     internal class Program
     {
         static void Main(string[] args)
         {
-            string? numeroIngresadoString;
+            string numeroIngresadoString;
             int numeroIngresado = new int();
             bool validacionNumeroIngresado = new bool();
-            int i = 0;
-            int vueltasWhile = 0;
             do
             {
                 Console.WriteLine("\nIngrese un año a continuación:");

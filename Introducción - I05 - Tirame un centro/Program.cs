@@ -14,11 +14,9 @@ namespace Introducción_I05_Tirame_un_centro
     {
         static void Main(string[] args)
         {
-            string? numeroIngresadoString;
+            string numeroIngresadoString;
             int numeroIngresado = new int();
             bool validacionNumeroIngresado = new bool();
-            int i = 0;
-            int vueltasWhile = 0;
             do
             {
                 Console.WriteLine("\nIngrese un numero a continuación:");
