@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Introducción - I08 - Dibujando un triángulo rectángulo/1.0.0": {
+        "runtime": {
+          "Introducción - I08 - Dibujando un triángulo rectángulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Introducción - I08 - Dibujando un triángulo rectángulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

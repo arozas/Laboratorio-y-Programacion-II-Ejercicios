@@ -86,13 +86,7 @@ namespace Introducción___I07___Recibo_de_sueldo
             valorInt = auxiliarInt;
             return retorno;
         }
-        static bool EsNumero(string valorString, out float valorInt)
-        {
-            float auxiliarFloat = 0;
-            bool retorno = !string.IsNullOrEmpty(valorString) && float.TryParse(valorString, out auxiliarFloat);
-            valorInt = auxiliarFloat;
-            return retorno;
-        }
+
         static bool EsNumero(string valorString, out decimal valorInt)
         {
             decimal auxiliarDecimal = 0;

@@ -15,7 +15,7 @@ namespace Introduccion_Ejercicio_03
     {
         static void Main(string[] args)
         {
-            string? numeroIngresadoString;
+            string numeroIngresadoString;
             double numeroIngresado = new double();
             bool validacionNumeroIngresado = new bool();
             int contadorPrimos=0;
