@@ -10,7 +10,6 @@ namespace Introducción___I09___Dibujando_un_triángulo_equilá_
      *         *****
      *        *******
      *       *********
-
      *
      * El usuario indicará cuál será la altura del triángulo ingresando un número entero positivo. Para el ejemplo anterior, la altura ingresada fue de 5.
      * IMPORTANTE:

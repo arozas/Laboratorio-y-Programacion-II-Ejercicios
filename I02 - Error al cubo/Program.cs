@@ -11,7 +11,7 @@ namespace Introduccion_Ejercicio_02
     {
         static void Main(string[] args)
         {
-            string? numeroIngresadoString;
+            string numeroIngresadoString;
             double numeroIngresado = new double();
             double numeroIngresadoCuadrado = new double();
             double numeroIngresadoCubo = new double();

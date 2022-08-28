@@ -1,0 +1,16 @@
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I05 - Aprendete las tablas\bin\Debug\net5.0\Clases y Métodos - I05 - Aprendete las tablas.exe
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I05 - Aprendete las tablas\bin\Debug\net5.0\Clases y Métodos - I05 - Aprendete las tablas.deps.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I05 - Aprendete las tablas\bin\Debug\net5.0\Clases y Métodos - I05 - Aprendete las tablas.runtimeconfig.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I05 - Aprendete las tablas\bin\Debug\net5.0\Clases y Métodos - I05 - Aprendete las tablas.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I05 - Aprendete las tablas\bin\Debug\net5.0\Clases y Métodos - I05 - Aprendete las tablas.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I05 - Aprendete las tablas\bin\Debug\net5.0\Clases y Métodos - I05 - Aprendete las tablas.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I05 - Aprendete las tablas\obj\Debug\net5.0\Clases y Métodos - I05 - Aprendete las tablas.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I05 - Aprendete las tablas\obj\Debug\net5.0\Clases y Métodos - I05 - Aprendete las tablas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I05 - Aprendete las tablas\obj\Debug\net5.0\Clases y Métodos - I05 - Aprendete las tablas.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I05 - Aprendete las tablas\obj\Debug\net5.0\Clases y Métodos - I05 - Aprendete las tablas.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I05 - Aprendete las tablas\obj\Debug\net5.0\Clases y Métodos - I05 - Aprendete las tablas.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I05 - Aprendete las tablas\obj\Debug\net5.0\Clases y Métodos - I05 - Aprendete las tablas.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I05 - Aprendete las tablas\obj\Debug\net5.0\refint\Clases y Métodos - I05 - Aprendete las tablas.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I05 - Aprendete las tablas\obj\Debug\net5.0\Clases y Métodos - I05 - Aprendete las tablas.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I05 - Aprendete las tablas\obj\Debug\net5.0\Clases y Métodos - I05 - Aprendete las tablas.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I05 - Aprendete las tablas\obj\Debug\net5.0\ref\Clases y Métodos - I05 - Aprendete las tablas.dll

@@ -1,0 +1,16 @@
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I04 - La calculadora\obj\Debug\net5.0\Clases y Métodos - I04 - La calculadora.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I04 - La calculadora\obj\Debug\net5.0\Clases y Métodos - I04 - La calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I04 - La calculadora\obj\Debug\net5.0\Clases y Métodos - I04 - La calculadora.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I04 - La calculadora\obj\Debug\net5.0\Clases y Métodos - I04 - La calculadora.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I04 - La calculadora\obj\Debug\net5.0\Clases y Métodos - I04 - La calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I04 - La calculadora\bin\Debug\net5.0\Clases y Métodos - I04 - La calculadora.exe
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I04 - La calculadora\bin\Debug\net5.0\Clases y Métodos - I04 - La calculadora.deps.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I04 - La calculadora\bin\Debug\net5.0\Clases y Métodos - I04 - La calculadora.runtimeconfig.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I04 - La calculadora\bin\Debug\net5.0\Clases y Métodos - I04 - La calculadora.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I04 - La calculadora\bin\Debug\net5.0\Clases y Métodos - I04 - La calculadora.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I04 - La calculadora\bin\Debug\net5.0\Clases y Métodos - I04 - La calculadora.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I04 - La calculadora\obj\Debug\net5.0\Clases y Métodos - I04 - La calculadora.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I04 - La calculadora\obj\Debug\net5.0\refint\Clases y Métodos - I04 - La calculadora.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I04 - La calculadora\obj\Debug\net5.0\Clases y Métodos - I04 - La calculadora.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I04 - La calculadora\obj\Debug\net5.0\Clases y Métodos - I04 - La calculadora.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I04 - La calculadora\obj\Debug\net5.0\ref\Clases y Métodos - I04 - La calculadora.dll

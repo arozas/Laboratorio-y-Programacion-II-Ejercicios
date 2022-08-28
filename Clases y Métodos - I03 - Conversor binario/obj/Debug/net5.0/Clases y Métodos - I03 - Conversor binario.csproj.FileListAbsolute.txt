@@ -1,0 +1,16 @@
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I03 - Conversor binario\bin\Debug\net5.0\Clases y Métodos - I03 - Conversor binario.exe
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I03 - Conversor binario\bin\Debug\net5.0\Clases y Métodos - I03 - Conversor binario.deps.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I03 - Conversor binario\bin\Debug\net5.0\Clases y Métodos - I03 - Conversor binario.runtimeconfig.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I03 - Conversor binario\bin\Debug\net5.0\Clases y Métodos - I03 - Conversor binario.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I03 - Conversor binario\bin\Debug\net5.0\Clases y Métodos - I03 - Conversor binario.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I03 - Conversor binario\bin\Debug\net5.0\Clases y Métodos - I03 - Conversor binario.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I03 - Conversor binario\obj\Debug\net5.0\Clases y Métodos - I03 - Conversor binario.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I03 - Conversor binario\obj\Debug\net5.0\Clases y Métodos - I03 - Conversor binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I03 - Conversor binario\obj\Debug\net5.0\Clases y Métodos - I03 - Conversor binario.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I03 - Conversor binario\obj\Debug\net5.0\Clases y Métodos - I03 - Conversor binario.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I03 - Conversor binario\obj\Debug\net5.0\Clases y Métodos - I03 - Conversor binario.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I03 - Conversor binario\obj\Debug\net5.0\Clases y Métodos - I03 - Conversor binario.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I03 - Conversor binario\obj\Debug\net5.0\refint\Clases y Métodos - I03 - Conversor binario.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I03 - Conversor binario\obj\Debug\net5.0\Clases y Métodos - I03 - Conversor binario.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I03 - Conversor binario\obj\Debug\net5.0\Clases y Métodos - I03 - Conversor binario.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I03 - Conversor binario\obj\Debug\net5.0\ref\Clases y Métodos - I03 - Conversor binario.dll

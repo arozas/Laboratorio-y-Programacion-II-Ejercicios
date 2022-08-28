@@ -11,7 +11,7 @@ namespace Introduccion_Ejercicio_01
         static void Main(string[] args)
         {
             const int VUELTAS_WHILE = 5;
-            string? numeroIngresadoString;
+            string numeroIngresadoString;
             float numeroIngresado = new float();
             float numeroMaximoIngresado = new float();
             float numeroMinimoIngresado = new float();

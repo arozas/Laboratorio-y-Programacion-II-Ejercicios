@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Clases y Metodos - I01 - Validador de rangos/1.0.0": {
+        "runtime": {
+          "Clases y Metodos - I01 - Validador de rangos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clases y Metodos - I01 - Validador de rangos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
