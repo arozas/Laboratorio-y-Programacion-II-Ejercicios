@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Biblioteca_UTN/1.0.0": {
+        "runtime": {
+          "Biblioteca_UTN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Biblioteca_UTN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

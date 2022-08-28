@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Biblioteca_UTN/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Biblioteca_UTN.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Biblioteca_UTN.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Biblioteca_UTN/1.0.0": {
+      "type": "project",
+      "path": "../Biblioteca_UTN/Biblioteca_UTN.csproj",
+      "msbuildProject": "../Biblioteca_UTN/Biblioteca_UTN.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Biblioteca_UTN >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Alejandro\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Alejandro\\Documents\\Laboratorio II\\Laboratorio-y-Programacion-II-Ejercicios\\Biblioteca_UTN\\Biblioteca_UTN.csproj": {
+              "projectPath": "C:\\Users\\Alejandro\\Documents\\Laboratorio II\\Laboratorio-y-Programacion-II-Ejercicios\\Biblioteca_UTN\\Biblioteca_UTN.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

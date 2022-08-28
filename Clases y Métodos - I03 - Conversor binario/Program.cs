@@ -1,4 +1,5 @@
 ﻿using System;
+using Biblioteca_UTN;
 
 namespace Clases_y_Métodos___I03___Conversor_binario
 {

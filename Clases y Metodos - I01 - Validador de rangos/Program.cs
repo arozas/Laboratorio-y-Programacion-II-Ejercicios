@@ -1,4 +1,5 @@
 ﻿using System;
+using Biblioteca_UTN;
 
 namespace Clases_y_Metodos___I01___Validador_de_rangos
 {
@@ -19,17 +20,17 @@ namespace Clases_y_Metodos___I01___Validador_de_rangos
         static void Main(string[] args)
         {
             string numeroIngresadoString;
-            int numeroIngresado = new int();
-            int numeroMaximoIngresado = new int();
-            int numeroMinimoIngresado = new int();
+            int numeroMaximoIngresado = new();
+            int numeroMinimoIngresado = new();
             bool banderaPrimerNumeroIngresado = false;
             int vueltasWhile=0;
             do
             {
                 Console.WriteLine("\nIngrese un numero:");
                 numeroIngresadoString = Console.ReadLine();
+                int numeroIngresado;
                 //validacionNumeroIngresado =  //(!string.IsNullOrEmpty(valorHoraIngresado) && int.TryParse(valorHoraIngresado, out valorHora)) && (valorHora > 0);
-                if (EsNumero(numeroIngresadoString, out numeroIngresado) && Validar(numeroIngresado, -100, 100))
+                if (Validador.EsNumero(numeroIngresadoString, out numeroIngresado) && Validador.Validar(numeroIngresado, -100, 100))
                 {
                     if (banderaPrimerNumeroIngresado == false)
                     {
@@ -57,37 +58,6 @@ namespace Clases_y_Metodos___I01___Validador_de_rangos
             } while (vueltasWhile<10);
             Console.WriteLine($"El numero máximo Ingresado es: {numeroMaximoIngresado}");
             Console.WriteLine($"El numero mínimo Ingresado es: {numeroMinimoIngresado}");
-
         }
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="valor"></param>
-        /// <param name="min"></param>
-        /// <param name="max"></param>
-        /// <returns></returns>
-        static bool Validar(int valor, int min, int max)
-        {
-            bool retorno = false;
-            if (valor > min && valor < max)
-            { 
-                retorno = true;
-            }
-            return retorno;
-        }
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="valorString"></param>
-        /// <param name="valorInt"></param>
-        /// <returns></returns>
-        static bool EsNumero(string valorString, out int valorInt)
-        {
-            int auxiliarInt = 0;
-            bool retorno = !string.IsNullOrEmpty(valorString) && int.TryParse(valorString, out auxiliarInt);
-            valorInt = auxiliarInt;
-            return retorno;
-        }
-
     }
 }

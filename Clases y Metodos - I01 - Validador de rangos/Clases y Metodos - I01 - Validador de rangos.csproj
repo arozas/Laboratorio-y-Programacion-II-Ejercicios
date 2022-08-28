@@ -6,4 +6,8 @@
     <RootNamespace>Clases_y_Metodos___I01___Validador_de_rangos</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Biblioteca_UTN\Biblioteca_UTN.csproj" />
+  </ItemGroup>
+
 </Project>

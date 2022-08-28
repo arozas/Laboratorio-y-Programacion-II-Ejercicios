@@ -1,0 +1,16 @@
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - Ejercicio I02 - Desea continuar\bin\Debug\net5.0\Clases y Métodos - I02 - Desea continuar.exe
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - Ejercicio I02 - Desea continuar\bin\Debug\net5.0\Clases y Métodos - I02 - Desea continuar.deps.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - Ejercicio I02 - Desea continuar\bin\Debug\net5.0\Clases y Métodos - I02 - Desea continuar.runtimeconfig.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - Ejercicio I02 - Desea continuar\bin\Debug\net5.0\Clases y Métodos - I02 - Desea continuar.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - Ejercicio I02 - Desea continuar\bin\Debug\net5.0\Clases y Métodos - I02 - Desea continuar.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - Ejercicio I02 - Desea continuar\bin\Debug\net5.0\Clases y Métodos - I02 - Desea continuar.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Clases y Métodos - I02 - Desea continuar.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Clases y Métodos - I02 - Desea continuar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Clases y Métodos - I02 - Desea continuar.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Clases y Métodos - I02 - Desea continuar.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Clases y Métodos - I02 - Desea continuar.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Clases y Métodos - I02 - Desea continuar.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - Ejercicio I02 - Desea continuar\obj\Debug\net5.0\refint\Clases y Métodos - I02 - Desea continuar.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Clases y Métodos - I02 - Desea continuar.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - Ejercicio I02 - Desea continuar\obj\Debug\net5.0\Clases y Métodos - I02 - Desea continuar.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - Ejercicio I02 - Desea continuar\obj\Debug\net5.0\ref\Clases y Métodos - I02 - Desea continuar.dll

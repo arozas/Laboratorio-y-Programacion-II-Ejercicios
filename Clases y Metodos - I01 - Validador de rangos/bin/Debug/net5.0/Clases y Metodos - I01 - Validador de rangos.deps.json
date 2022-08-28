@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "Clases y Metodos - I01 - Validador de rangos/1.0.0": {
+        "dependencies": {
+          "Biblioteca_UTN": "1.0.0"
+        },
         "runtime": {
           "Clases y Metodos - I01 - Validador de rangos.dll": {}
+        }
+      },
+      "Biblioteca_UTN/1.0.0": {
+        "runtime": {
+          "Biblioteca_UTN.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Clases y Metodos - I01 - Validador de rangos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Biblioteca_UTN/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

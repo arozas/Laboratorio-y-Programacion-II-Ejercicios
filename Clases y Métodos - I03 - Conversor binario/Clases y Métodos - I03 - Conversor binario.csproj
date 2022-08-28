@@ -6,4 +6,8 @@
     <RootNamespace>Clases_y_Métodos___I03___Conversor_binario</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Biblioteca_UTN\Biblioteca_UTN.csproj" />
+  </ItemGroup>
+
 </Project>

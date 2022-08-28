@@ -1,0 +1,19 @@
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I06 - Calculadora de áreas\bin\Debug\net5.0\Clases y Métodos - I06 - Calculadora de áreas.exe
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I06 - Calculadora de áreas\bin\Debug\net5.0\Clases y Métodos - I06 - Calculadora de áreas.deps.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I06 - Calculadora de áreas\bin\Debug\net5.0\Clases y Métodos - I06 - Calculadora de áreas.runtimeconfig.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I06 - Calculadora de áreas\bin\Debug\net5.0\Clases y Métodos - I06 - Calculadora de áreas.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I06 - Calculadora de áreas\bin\Debug\net5.0\Clases y Métodos - I06 - Calculadora de áreas.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I06 - Calculadora de áreas\bin\Debug\net5.0\Clases y Métodos - I06 - Calculadora de áreas.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I06 - Calculadora de áreas\bin\Debug\net5.0\Biblioteca_UTN.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I06 - Calculadora de áreas\bin\Debug\net5.0\Biblioteca_UTN.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I06 - Calculadora de áreas\obj\Debug\net5.0\Clases y Métodos - I06 - Calculadora de áreas.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I06 - Calculadora de áreas\obj\Debug\net5.0\Clases y Métodos - I06 - Calculadora de áreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I06 - Calculadora de áreas\obj\Debug\net5.0\Clases y Métodos - I06 - Calculadora de áreas.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I06 - Calculadora de áreas\obj\Debug\net5.0\Clases y Métodos - I06 - Calculadora de áreas.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I06 - Calculadora de áreas\obj\Debug\net5.0\Clases y Métodos - I06 - Calculadora de áreas.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I06 - Calculadora de áreas\obj\Debug\net5.0\Clases y Métodos - I06 - Calculadora de áreas.csproj.CopyComplete
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I06 - Calculadora de áreas\obj\Debug\net5.0\Clases y Métodos - I06 - Calculadora de áreas.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I06 - Calculadora de áreas\obj\Debug\net5.0\refint\Clases y Métodos - I06 - Calculadora de áreas.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I06 - Calculadora de áreas\obj\Debug\net5.0\Clases y Métodos - I06 - Calculadora de áreas.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I06 - Calculadora de áreas\obj\Debug\net5.0\Clases y Métodos - I06 - Calculadora de áreas.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I06 - Calculadora de áreas\obj\Debug\net5.0\ref\Clases y Métodos - I06 - Calculadora de áreas.dll

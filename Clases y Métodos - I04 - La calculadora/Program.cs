@@ -1,5 +1,5 @@
 ﻿using System;
-using Clases_y_Métodos___Ejercicio_I02___Desea_continuar;
+using Biblioteca_UTN;
 
 namespace Clases_y_Métodos___I04___La_calculadora
 {
@@ -49,42 +49,6 @@ namespace Clases_y_Métodos___I04___La_calculadora
                 else { Console.WriteLine("Error. Debe ingresar un valor valido."); }
 
             } while (Validador.ValidarRespuesta("¿Desea Continuar? S/N"));
-        }
-        static int imprimirMenu(string titulo, string menu, string mensaje, string errorMsg, int numeroOpciones, int intentos)
-        {
-            int rtn = -1;
-            if (titulo != null && menu != null && mensaje != null && numeroOpciones > 0 && intentos > 0)
-            {
-                Console.WriteLine("\n" + titulo);
-                Console.WriteLine(menu);
-                string opcionIngresada;
-                int opcionIngresadaInt;
-                do
-                {
-                    Console.WriteLine(mensaje);
-                    opcionIngresada = Console.ReadLine();
-                    if (string.IsNullOrEmpty(opcionIngresada)
-                        || !int.TryParse(opcionIngresada, out opcionIngresadaInt)
-                        || opcionIngresadaInt < 1
-                        || opcionIngresadaInt > numeroOpciones)
-                    {
-                        Console.WriteLine(errorMsg);
-                    }
-                    else
-                    {
-                        rtn = opcionIngresadaInt;
-                    }
-                    intentos--;
-                } while ((string.IsNullOrEmpty(opcionIngresada)
-                          || !int.TryParse(opcionIngresada, out opcionIngresadaInt)
-                          && (opcionIngresadaInt < 1 || opcionIngresadaInt > numeroOpciones))
-                         && intentos > 0);
-            }
-            if (rtn == -1)
-            {
-                Console.WriteLine("ERROR, AGOTÓ LOS INTENTOS");
-            }
-            return rtn;
         }
     }
 }

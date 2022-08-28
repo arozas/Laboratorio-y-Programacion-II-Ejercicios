@@ -14,3 +14,6 @@ C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejerci
 C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Metodos - I01 - Validador de rangos\obj\Debug\net5.0\Clases y Metodos - I01 - Validador de rangos.pdb
 C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Metodos - I01 - Validador de rangos\obj\Debug\net5.0\Clases y Metodos - I01 - Validador de rangos.genruntimeconfig.cache
 C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Metodos - I01 - Validador de rangos\obj\Debug\net5.0\ref\Clases y Metodos - I01 - Validador de rangos.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Metodos - I01 - Validador de rangos\bin\Debug\net5.0\Biblioteca_UTN.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Metodos - I01 - Validador de rangos\bin\Debug\net5.0\Biblioteca_UTN.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Metodos - I01 - Validador de rangos\obj\Debug\net5.0\Clases y Metodos - I01 - Validador de rangos.csproj.CopyComplete
