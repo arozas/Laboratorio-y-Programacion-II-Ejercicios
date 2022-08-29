@@ -20,17 +20,18 @@ namespace Clases_y_Métodos___A01___Calcular_un_factorial
             {
                 Console.WriteLine("Ingrese un numero a sumar:");
                 numeroIngresadoString = Console.ReadLine();
-                long numeroIngresado;
+                ulong numeroIngresado;
                 if (Validador.EsNumero(numeroIngresadoString, out numeroIngresado))
                 {
-                    if (numeroIngresado > 0)
+                    if (Validador.Validar(numeroIngresado,1,65))
                     {
-                        long resultadoFactorial = Calculadora.CalcularFactorial(numeroIngresado);
+                        ulong resultadoFactorial = Calculadora.CalcularFactorial(numeroIngresado);
                         Console.WriteLine($"El numero factorial de {numeroIngresado} es: {resultadoFactorial}");
                     }
                     else
                     {
                         Salida.MensajeErrorNumeroRango();
+                        Console.WriteLine("No se puede generar factoriales de numeros mayores a 65");
                     }
                     
                 }

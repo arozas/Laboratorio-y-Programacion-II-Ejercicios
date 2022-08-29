@@ -158,15 +158,15 @@ namespace Biblioteca_UTN
             return retorno;
         }
         /// <summary>
-        ///  Calcula el factorial del valor pasado por parametro.
+        ///  Calcula el factorial del valor pasado por parametro. Puede calcular hasta el factorial del numero 65;
         /// </summary>
         /// <param name="numero">Número al cual se va realizar el factorial</param>
-        /// <returns>Devuelve el valor "long" del factorial, en caso de error, devuelve 0.</returns>
-        public static long CalcularFactorial(long numero)
+        /// <returns>Devuelve el valor "ulong" del factorial, en caso de error o que se ingrese un valor mayor a 65, devuelve 0.</returns>
+        public static ulong CalcularFactorial(ulong numero)
         {
-            long retorno = new();
-            long vueltasWhile = numero;
-            long resultadoFactorial = numero;
+            ulong retorno = new();
+            ulong vueltasWhile = numero;
+            ulong resultadoFactorial = numero;
             if (numero > 0)
             {
                 do
