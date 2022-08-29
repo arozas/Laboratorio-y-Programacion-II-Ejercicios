@@ -111,6 +111,19 @@ namespace Biblioteca_UTN
             return retorno;
         }
         /// <summary>
+        /// Valida que el valor ingresado sea un numero de tipo decimal y que no sea empty o null.
+        /// </summary>
+        /// <param name="valorString">String donde se guarda el valor ingresado por el enunciado</param>
+        /// <param name="valor">Variable donde se devuelve el valor ingresado en el string en el caso que el parseo sea exitoso.</param>
+        /// <returns>retorna "true" en el caso que el valor sea del tipo decimal, si no retorna "false"</returns>
+        public static bool EsNumero(string valorString, out decimal valor)
+        {
+            decimal auxiliar = 0;
+            bool retorno = !string.IsNullOrEmpty(valorString) && decimal.TryParse(valorString, out auxiliar);
+            valor = auxiliar;
+            return retorno;
+        }
+        /// <summary>
         /// Valida que el valor ingresado sea un numero de tipo long y que no sea empty o null.
         /// </summary>
         /// <param name="valorString">String donde se guarda el valor ingresado por el enunciado</param>

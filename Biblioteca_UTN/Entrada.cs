@@ -8,6 +8,16 @@ namespace Biblioteca_UTN
 {
     public class Entrada
     {
+        /// <summary>
+        /// Genera un menú de opciones numericas que se muestra por consola y toma la elección del usuario.
+        /// </summary>
+        /// <param name="titulo">Titulo del menú.</param>
+        /// <param name="menu">Lista de opciones del menú.</param>
+        /// <param name="mensaje">Mensaje para el usuario.</param>
+        /// <param name="mensajeError">Mensaje de error en el caso de no ingresar una opcion dentro del rango</param>
+        /// <param name="opciones">Cantidad de opciones del menú.</param>
+        /// <param name="intentos">Intentos de ingreso de opcion antes de devolver error.</param>
+        /// <returns>Devueleve la opción ingresada en formato entero.</returns>
         public static int MostrarMenu(string titulo, string menu, string mensaje, string mensajeError, int opciones, int intentos)
         {
             int rtn = -1;

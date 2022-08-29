@@ -49,5 +49,9 @@ namespace Biblioteca_UTN
 
             Console.WriteLine("Error. No se pudo realizar la operación.");
         }
+        public static void MensajeFinalizoPrograma()
+        {
+            Console.WriteLine("FINALIZÓ EL PROGRAMA");
+        }
     }
 }

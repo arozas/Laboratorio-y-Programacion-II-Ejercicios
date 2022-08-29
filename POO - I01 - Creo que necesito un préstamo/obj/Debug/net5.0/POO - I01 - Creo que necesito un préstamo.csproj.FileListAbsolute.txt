@@ -1,0 +1,19 @@
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I01 - Creo que necesito un préstamo\bin\Debug\net5.0\POO - I01 - Creo que necesito un préstamo.exe
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I01 - Creo que necesito un préstamo\bin\Debug\net5.0\POO - I01 - Creo que necesito un préstamo.deps.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I01 - Creo que necesito un préstamo\bin\Debug\net5.0\POO - I01 - Creo que necesito un préstamo.runtimeconfig.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I01 - Creo que necesito un préstamo\bin\Debug\net5.0\POO - I01 - Creo que necesito un préstamo.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I01 - Creo que necesito un préstamo\bin\Debug\net5.0\POO - I01 - Creo que necesito un préstamo.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I01 - Creo que necesito un préstamo\bin\Debug\net5.0\POO - I01 - Creo que necesito un préstamo.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Biblioteca_UTN.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I01 - Creo que necesito un préstamo\bin\Debug\net5.0\Biblioteca_UTN.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I01 - Creo que necesito un préstamo\obj\Debug\net5.0\POO - I01 - Creo que necesito un préstamo.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I01 - Creo que necesito un préstamo\obj\Debug\net5.0\POO - I01 - Creo que necesito un préstamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I01 - Creo que necesito un préstamo\obj\Debug\net5.0\POO - I01 - Creo que necesito un préstamo.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I01 - Creo que necesito un préstamo\obj\Debug\net5.0\POO - I01 - Creo que necesito un préstamo.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I01 - Creo que necesito un préstamo\obj\Debug\net5.0\POO - I01 - Creo que necesito un préstamo.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I01 - Creo que necesito un préstamo\obj\Debug\net5.0\POO - I01 - Creo que necesito un préstamo.csproj.CopyComplete
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I01 - Creo que necesito un préstamo\obj\Debug\net5.0\POO - I01 - Creo que necesito un préstamo.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I01 - Creo que necesito un préstamo\obj\Debug\net5.0\refint\POO - I01 - Creo que necesito un préstamo.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I01 - Creo que necesito un préstamo\obj\Debug\net5.0\POO - I01 - Creo que necesito un préstamo.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I01 - Creo que necesito un préstamo\obj\Debug\net5.0\POO - I01 - Creo que necesito un préstamo.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I01 - Creo que necesito un préstamo\obj\Debug\net5.0\ref\POO - I01 - Creo que necesito un préstamo.dll

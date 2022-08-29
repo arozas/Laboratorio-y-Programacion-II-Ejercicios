@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "POO - I01 - Creo que necesito un préstamo/1.0.0": {
+        "dependencies": {
+          "Biblioteca_UTN": "1.0.0"
+        },
+        "runtime": {
+          "POO - I01 - Creo que necesito un préstamo.dll": {}
+        }
+      },
+      "Biblioteca_UTN/1.0.0": {
+        "runtime": {
+          "Biblioteca_UTN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POO - I01 - Creo que necesito un préstamo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Biblioteca_UTN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

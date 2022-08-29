@@ -1,0 +1,19 @@
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I02 - Vos cuántas primaveras tenés\bin\Debug\net5.0\POO - I02 - Vos cuántas primaveras tenés.exe
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I02 - Vos cuántas primaveras tenés\bin\Debug\net5.0\POO - I02 - Vos cuántas primaveras tenés.deps.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I02 - Vos cuántas primaveras tenés\bin\Debug\net5.0\POO - I02 - Vos cuántas primaveras tenés.runtimeconfig.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I02 - Vos cuántas primaveras tenés\bin\Debug\net5.0\POO - I02 - Vos cuántas primaveras tenés.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I02 - Vos cuántas primaveras tenés\bin\Debug\net5.0\POO - I02 - Vos cuántas primaveras tenés.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I02 - Vos cuántas primaveras tenés\bin\Debug\net5.0\POO - I02 - Vos cuántas primaveras tenés.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I02 - Vos cuántas primaveras tenés\bin\Debug\net5.0\Biblioteca_UTN.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I02 - Vos cuántas primaveras tenés\bin\Debug\net5.0\Biblioteca_UTN.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I02 - Vos cuántas primaveras tenés\obj\Debug\net5.0\POO - I02 - Vos cuántas primaveras tenés.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I02 - Vos cuántas primaveras tenés\obj\Debug\net5.0\POO - I02 - Vos cuántas primaveras tenés.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I02 - Vos cuántas primaveras tenés\obj\Debug\net5.0\POO - I02 - Vos cuántas primaveras tenés.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I02 - Vos cuántas primaveras tenés\obj\Debug\net5.0\POO - I02 - Vos cuántas primaveras tenés.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I02 - Vos cuántas primaveras tenés\obj\Debug\net5.0\POO - I02 - Vos cuántas primaveras tenés.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I02 - Vos cuántas primaveras tenés\obj\Debug\net5.0\POO - I02 - Vos cuántas primaveras tenés.csproj.CopyComplete
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I02 - Vos cuántas primaveras tenés\obj\Debug\net5.0\POO - I02 - Vos cuántas primaveras tenés.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I02 - Vos cuántas primaveras tenés\obj\Debug\net5.0\refint\POO - I02 - Vos cuántas primaveras tenés.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I02 - Vos cuántas primaveras tenés\obj\Debug\net5.0\POO - I02 - Vos cuántas primaveras tenés.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I02 - Vos cuántas primaveras tenés\obj\Debug\net5.0\POO - I02 - Vos cuántas primaveras tenés.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I02 - Vos cuántas primaveras tenés\obj\Debug\net5.0\ref\POO - I02 - Vos cuántas primaveras tenés.dll
