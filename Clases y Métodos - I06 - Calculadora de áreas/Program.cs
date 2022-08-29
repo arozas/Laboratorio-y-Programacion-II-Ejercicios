@@ -84,7 +84,7 @@ namespace Clases_y_Métodos___I06___Calculadora_de_áreas
                         }
                         break;
                     default:
-                        Salida.MensajeErrorOpcióonValida();
+                        Salida.MensajeErrorOpcionValida();
                         break;
                 }
             } while (Validador.ValidarRespuesta("¿Desea Continuar? <S/N>:"));

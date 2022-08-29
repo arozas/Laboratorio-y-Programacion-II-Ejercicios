@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Métodos_y_Clases___I07___Pitágoras_estaría_orgulloso</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Biblioteca_UTN\Biblioteca_UTN.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -17,23 +17,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Introducción - I06 - Años
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Introducción - I07 - Recibo de sueldo", "Introducción - I07 - Recibo de sueldo\Introducción - I07 - Recibo de sueldo.csproj", "{3900D8C4-CAA4-4F44-BFA3-311DB8D0B477}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introducción - I08 - Dibujando un triángulo rectángulo", "Introdución - I08 - Dibujando un triángulo rectángulo\Introducción - I08 - Dibujando un triángulo rectángulo.csproj", "{927D9279-7ABD-499A-A9F3-F6DD568A2BCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Introducción - I08 - Dibujando un triángulo rectángulo", "Introdución - I08 - Dibujando un triángulo rectángulo\Introducción - I08 - Dibujando un triángulo rectángulo.csproj", "{927D9279-7ABD-499A-A9F3-F6DD568A2BCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introducción - I09 - Dibujando un triángulo equilá.", "Introducción - I09 - Dibujando un triángulo equilá\Introducción - I09 - Dibujando un triángulo equilá..csproj", "{DD739A08-365B-4575-963C-E2C8FE30095B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Introducción - I09 - Dibujando un triángulo equilá.", "Introducción - I09 - Dibujando un triángulo equilá\Introducción - I09 - Dibujando un triángulo equilá..csproj", "{DD739A08-365B-4575-963C-E2C8FE30095B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases y Metodos - I01 - Validador de rangos", "Clases y Metodos - I01 - Validador de rangos\Clases y Metodos - I01 - Validador de rangos.csproj", "{ECA23399-99AF-4B96-8A53-065E10D41912}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clases y Metodos - I01 - Validador de rangos", "Clases y Metodos - I01 - Validador de rangos\Clases y Metodos - I01 - Validador de rangos.csproj", "{ECA23399-99AF-4B96-8A53-065E10D41912}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases y Métodos - I02 - Desea continuar", "Clases y Métodos - Ejercicio I02 - Desea continuar\Clases y Métodos - I02 - Desea continuar.csproj", "{70BE974C-B298-481E-B389-46E8C9B409F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clases y Métodos - I02 - Desea continuar", "Clases y Métodos - Ejercicio I02 - Desea continuar\Clases y Métodos - I02 - Desea continuar.csproj", "{70BE974C-B298-481E-B389-46E8C9B409F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases y Métodos - I03 - Conversor binario", "Clases y Métodos - I03 - Conversor binario\Clases y Métodos - I03 - Conversor binario.csproj", "{63D70563-74E5-4A0D-830D-865A35E6DF20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clases y Métodos - I03 - Conversor binario", "Clases y Métodos - I03 - Conversor binario\Clases y Métodos - I03 - Conversor binario.csproj", "{63D70563-74E5-4A0D-830D-865A35E6DF20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases y Métodos - I04 - La calculadora", "Clases y Métodos - I04 - La calculadora\Clases y Métodos - I04 - La calculadora.csproj", "{9B917309-5E6C-4B7D-9030-BE2DC532C09F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clases y Métodos - I04 - La calculadora", "Clases y Métodos - I04 - La calculadora\Clases y Métodos - I04 - La calculadora.csproj", "{9B917309-5E6C-4B7D-9030-BE2DC532C09F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases y Métodos - I05 - Aprendete las tablas", "Clases y Métodos - I05 - Aprendete las tablas\Clases y Métodos - I05 - Aprendete las tablas.csproj", "{A6F31342-B19F-4653-8377-F748952B31B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clases y Métodos - I05 - Aprendete las tablas", "Clases y Métodos - I05 - Aprendete las tablas\Clases y Métodos - I05 - Aprendete las tablas.csproj", "{A6F31342-B19F-4653-8377-F748952B31B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca_UTN", "Biblioteca_UTN\Biblioteca_UTN.csproj", "{2D5032B2-CDE4-4C2E-B556-AB87AD098153}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca_UTN", "Biblioteca_UTN\Biblioteca_UTN.csproj", "{2D5032B2-CDE4-4C2E-B556-AB87AD098153}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases y Métodos - I06 - Calculadora de áreas", "Clases y Métodos - I06 - Calculadora de áreas\Clases y Métodos - I06 - Calculadora de áreas.csproj", "{D71A72BB-8BBE-42F8-8EF2-F8C13D305459}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clases y Métodos - I06 - Calculadora de áreas", "Clases y Métodos - I06 - Calculadora de áreas\Clases y Métodos - I06 - Calculadora de áreas.csproj", "{D71A72BB-8BBE-42F8-8EF2-F8C13D305459}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases y Métodos - I07 - Pitágoras estaría orgulloso", "Métodos y Clases - I07 - Pitágoras estaría orgulloso\Clases y Métodos - I07 - Pitágoras estaría orgulloso.csproj", "{9DC5FDE6-2834-4AB6-9625-221CC1EB42E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases y Métodos - I08 - El tiempo pasa", "Clases y Métodos - I08 - El tiempo pasa\Clases y Métodos - I08 - El tiempo pasa.csproj", "{098AC12A-DAA3-4B7A-8845-1D12F22DB1CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases y Métodos - A01 - Calcular un factorial", "Clases y Métodos - A01 - Calcular un factorial\Clases y Métodos - A01 - Calcular un factorial.csproj", "{FEF7B49E-5A73-4346-8E46-FD7B2ADCC0EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +111,18 @@ Global
 		{D71A72BB-8BBE-42F8-8EF2-F8C13D305459}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D71A72BB-8BBE-42F8-8EF2-F8C13D305459}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D71A72BB-8BBE-42F8-8EF2-F8C13D305459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DC5FDE6-2834-4AB6-9625-221CC1EB42E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC5FDE6-2834-4AB6-9625-221CC1EB42E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC5FDE6-2834-4AB6-9625-221CC1EB42E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC5FDE6-2834-4AB6-9625-221CC1EB42E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{098AC12A-DAA3-4B7A-8845-1D12F22DB1CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098AC12A-DAA3-4B7A-8845-1D12F22DB1CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098AC12A-DAA3-4B7A-8845-1D12F22DB1CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098AC12A-DAA3-4B7A-8845-1D12F22DB1CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEF7B49E-5A73-4346-8E46-FD7B2ADCC0EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF7B49E-5A73-4346-8E46-FD7B2ADCC0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF7B49E-5A73-4346-8E46-FD7B2ADCC0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF7B49E-5A73-4346-8E46-FD7B2ADCC0EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

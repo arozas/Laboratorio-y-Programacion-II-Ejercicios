@@ -1,0 +1,19 @@
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I08 - El tiempo pasa\bin\Debug\net5.0\Clases y Métodos - I08 - El tiempo pasa.exe
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I08 - El tiempo pasa\bin\Debug\net5.0\Clases y Métodos - I08 - El tiempo pasa.deps.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I08 - El tiempo pasa\bin\Debug\net5.0\Clases y Métodos - I08 - El tiempo pasa.runtimeconfig.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I08 - El tiempo pasa\bin\Debug\net5.0\Clases y Métodos - I08 - El tiempo pasa.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I08 - El tiempo pasa\bin\Debug\net5.0\Clases y Métodos - I08 - El tiempo pasa.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I08 - El tiempo pasa\bin\Debug\net5.0\Clases y Métodos - I08 - El tiempo pasa.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I08 - El tiempo pasa\obj\Debug\net5.0\Clases y Métodos - I08 - El tiempo pasa.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I08 - El tiempo pasa\obj\Debug\net5.0\Clases y Métodos - I08 - El tiempo pasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I08 - El tiempo pasa\obj\Debug\net5.0\Clases y Métodos - I08 - El tiempo pasa.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I08 - El tiempo pasa\obj\Debug\net5.0\Clases y Métodos - I08 - El tiempo pasa.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I08 - El tiempo pasa\obj\Debug\net5.0\Clases y Métodos - I08 - El tiempo pasa.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I08 - El tiempo pasa\obj\Debug\net5.0\Clases y Métodos - I08 - El tiempo pasa.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I08 - El tiempo pasa\obj\Debug\net5.0\refint\Clases y Métodos - I08 - El tiempo pasa.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I08 - El tiempo pasa\obj\Debug\net5.0\Clases y Métodos - I08 - El tiempo pasa.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I08 - El tiempo pasa\obj\Debug\net5.0\Clases y Métodos - I08 - El tiempo pasa.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I08 - El tiempo pasa\obj\Debug\net5.0\ref\Clases y Métodos - I08 - El tiempo pasa.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I08 - El tiempo pasa\bin\Debug\net5.0\Biblioteca_UTN.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I08 - El tiempo pasa\bin\Debug\net5.0\Biblioteca_UTN.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - I08 - El tiempo pasa\obj\Debug\net5.0\Clases y Métodos - I08 - El tiempo pasa.csproj.CopyComplete

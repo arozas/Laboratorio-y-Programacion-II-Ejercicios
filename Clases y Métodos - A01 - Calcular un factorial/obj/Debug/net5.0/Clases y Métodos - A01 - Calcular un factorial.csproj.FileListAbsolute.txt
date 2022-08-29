@@ -1,0 +1,19 @@
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - A01 - Calcular un factorial\bin\Debug\net5.0\Clases y Métodos - A01 - Calcular un factorial.exe
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - A01 - Calcular un factorial\bin\Debug\net5.0\Clases y Métodos - A01 - Calcular un factorial.deps.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - A01 - Calcular un factorial\bin\Debug\net5.0\Clases y Métodos - A01 - Calcular un factorial.runtimeconfig.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - A01 - Calcular un factorial\bin\Debug\net5.0\Clases y Métodos - A01 - Calcular un factorial.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - A01 - Calcular un factorial\bin\Debug\net5.0\Clases y Métodos - A01 - Calcular un factorial.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - A01 - Calcular un factorial\bin\Debug\net5.0\Clases y Métodos - A01 - Calcular un factorial.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - A01 - Calcular un factorial\obj\Debug\net5.0\Clases y Métodos - A01 - Calcular un factorial.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - A01 - Calcular un factorial\obj\Debug\net5.0\Clases y Métodos - A01 - Calcular un factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - A01 - Calcular un factorial\obj\Debug\net5.0\Clases y Métodos - A01 - Calcular un factorial.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - A01 - Calcular un factorial\obj\Debug\net5.0\Clases y Métodos - A01 - Calcular un factorial.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - A01 - Calcular un factorial\obj\Debug\net5.0\Clases y Métodos - A01 - Calcular un factorial.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - A01 - Calcular un factorial\obj\Debug\net5.0\Clases y Métodos - A01 - Calcular un factorial.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - A01 - Calcular un factorial\obj\Debug\net5.0\refint\Clases y Métodos - A01 - Calcular un factorial.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - A01 - Calcular un factorial\obj\Debug\net5.0\Clases y Métodos - A01 - Calcular un factorial.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - A01 - Calcular un factorial\obj\Debug\net5.0\Clases y Métodos - A01 - Calcular un factorial.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - A01 - Calcular un factorial\obj\Debug\net5.0\ref\Clases y Métodos - A01 - Calcular un factorial.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - A01 - Calcular un factorial\bin\Debug\net5.0\Biblioteca_UTN.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - A01 - Calcular un factorial\bin\Debug\net5.0\Biblioteca_UTN.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Clases y Métodos - A01 - Calcular un factorial\obj\Debug\net5.0\Clases y Métodos - A01 - Calcular un factorial.csproj.CopyComplete

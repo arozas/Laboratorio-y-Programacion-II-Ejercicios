@@ -39,6 +39,29 @@ namespace Biblioteca_UTN
             double retorno = (Math.PI*Math.Pow(radioCirculo,2));
             return retorno;
         }
+        /// <summary>
+        ///  Calcula la longitud de la hipotenusa de un triandulo.
+        /// </summary>
+        /// <param name="baseTriangulo">Medida de la base del triangulo</param>
+        /// <param name="alturaTriangulo">Medida de la altura del triangulo</param>
+        /// <returns>Retorna la logitud de la hipotenusa o 0 en caso de error.</returns>
+        public static double CalcularLongitudHipotenusa(double baseTriangulo, double alturaTriangulo)
+        {
+            double retorno = new();
+            double hipotenusaC = Math.Sqrt((Math.Pow(alturaTriangulo,2)+Math.Pow(baseTriangulo,2)));
+           // decimal comprobacionA =Math.Sqrt((Math.Pow(hipotenusaC,2)-Math.Pow(baseTriangulo,2)));
+            //decimal comprobacionB = Math.Sqrt((Math.Pow(hipotenusaC, 2) - Math.Pow(alturaTriangulo, 2)));;
+            //if (alturaTriangulo == comprobacionA && baseTriangulo == comprobacionB)
+            //{
+                retorno = hipotenusaC;
+            //}
+            //else
+            //{
+            //    Salida.MensajeErrorOperacion();
+            //}
+
+            return retorno;
+        }
     }
    
 

@@ -144,5 +144,40 @@ namespace Biblioteca_UTN
                 sbMesajeTabla.Replace($"{resultadoMultiplicacion}", "z");
             }
         }
+        /// <summary>
+        /// Calcula los días pasado desde la fecha ingresada.
+        /// </summary>
+        /// <param name="fecha">Fecha desde que se calculan los días.</param>
+        /// <returns>Retorna los días en formato entero(int).</returns>
+        public static int CalcularDías(DateTime fecha)
+        {
+            TimeSpan diasPasados = new TimeSpan();
+            DateTime fechaActual = DateTime.Now;
+            diasPasados = fechaActual.Subtract(fecha);
+            int retorno = diasPasados.Days;
+            return retorno;
+        }
+        /// <summary>
+        ///  Calcula el factorial del valor pasado por parametro.
+        /// </summary>
+        /// <param name="numero">Número al cual se va realizar el factorial</param>
+        /// <returns>Devuelve el valor "long" del factorial, en caso de error, devuelve 0.</returns>
+        public static long CalcularFactorial(long numero)
+        {
+            long retorno = new();
+            long vueltasWhile = numero;
+            long resultadoFactorial = numero;
+            if (numero > 0)
+            {
+                do
+                {
+                    vueltasWhile--;
+                    resultadoFactorial = resultadoFactorial * vueltasWhile;
+                } while (vueltasWhile != 1);
+            }
+            retorno = resultadoFactorial;
+            return retorno;
+        }
+
     }
 }

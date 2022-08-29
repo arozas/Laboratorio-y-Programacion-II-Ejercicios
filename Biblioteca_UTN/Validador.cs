@@ -94,5 +94,31 @@ namespace Biblioteca_UTN
             valor = auxiliar;
             return retorno;
         }
+        /// <summary>
+        /// Valida que el valor ingresado sea un numero de tipo long y que no sea empty o null.
+        /// </summary>
+        /// <param name="valorString">String donde se guarda el valor ingresado por el enunciado</param>
+        /// <param name="valor">Variable donde se devuelve el valor ingresado en el string en el caso que el parseo sea exitoso.</param>
+        /// <returns>retorna "true" en el caso que el valor sea del tipo long, si no retorna "false"</returns>
+        public static bool EsNumero(string valorString, out long valor)
+        {
+            long auxiliar = 0;
+            bool retorno = !string.IsNullOrEmpty(valorString) && long.TryParse(valorString, out auxiliar);
+            valor = auxiliar;
+            return retorno;
+        }
+        /// <summary>
+        /// Valida que el valor ingresado sea una fecha.
+        /// </summary>
+        /// <param name="valorString">El string a intentar validar que sea una fecha</param>
+        /// <param name="valor">El valor devuelto en caso de un parseo exitoso.</param>
+        /// <returns>retorna "true" en el caso que el valor sea una fecha, de lo contrario retorna "false".</returns>
+        public static bool EsFecha(string valorString, out DateTime valor)
+        {
+            DateTime auxiliar = new DateTime();
+            bool retorno = !string.IsNullOrEmpty(valorString) && DateTime.TryParse(valorString, out auxiliar);
+            valor = auxiliar;
+            return retorno;
+        }
     }
 }

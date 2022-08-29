@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Biblioteca_UTN/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Biblioteca_UTN.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Biblioteca_UTN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Biblioteca_UTN/1.0.0": {
+      "type": "project",
+      "path": "../Biblioteca_UTN/Biblioteca_UTN.csproj",
+      "msbuildProject": "../Biblioteca_UTN/Biblioteca_UTN.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Biblioteca_UTN >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Alejandro\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Alejandro\\Documents\\Laboratorio II\\Laboratorio-y-Programacion-II-Ejercicios\\Clases y Métodos - I08 - El tiempo pasa\\Clases y Métodos - I08 - El tiempo pasa.csproj",
+      "projectName": "Clases y Métodos - I08 - El tiempo pasa",
+      "projectPath": "C:\\Users\\Alejandro\\Documents\\Laboratorio II\\Laboratorio-y-Programacion-II-Ejercicios\\Clases y Métodos - I08 - El tiempo pasa\\Clases y Métodos - I08 - El tiempo pasa.csproj",
+      "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alejandro\\Documents\\Laboratorio II\\Laboratorio-y-Programacion-II-Ejercicios\\Clases y Métodos - I08 - El tiempo pasa\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Alejandro\\Documents\\Laboratorio II\\Laboratorio-y-Programacion-II-Ejercicios\\Biblioteca_UTN\\Biblioteca_UTN.csproj": {
+              "projectPath": "C:\\Users\\Alejandro\\Documents\\Laboratorio II\\Laboratorio-y-Programacion-II-Ejercicios\\Biblioteca_UTN\\Biblioteca_UTN.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

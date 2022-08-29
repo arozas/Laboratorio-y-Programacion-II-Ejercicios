@@ -16,10 +16,38 @@ namespace Biblioteca_UTN
 
             Console.WriteLine("Error. Ingrese un número válido");
         }
-        public static void MensajeErrorOpcióonValida()
+        /// <summary>
+        /// Muestra mensaje de error "Numero fuera de rango"
+        /// </summary>
+        public static void MensajeErrorNumeroRango()
+        {
+
+            Console.WriteLine("Error. Ingrese un número dentro del rango.");
+        }
+        /// <summary>
+        /// Muestra mensaje de error "Fecha no valida"
+        /// </summary>
+        public static void MensajeErrorFecha()
+        {
+
+            Console.WriteLine("Error. Ingrese una fecha válida");
+            Console.WriteLine("Formato: dd/mm/aaaa (día/mes/año)");
+        }
+        /// <summary>
+        /// Muestra un mensaje "Opcion no valida"
+        /// </summary>
+        public static void MensajeErrorOpcionValida()
         {
 
             Console.WriteLine("Error. No ingresó una opción válida.");
+        }
+        /// <summary>
+        ///  Muestra mensaje de error. "No pudo realizar la operación".
+        /// </summary>
+        public static void MensajeErrorOperacion()
+        {
+
+            Console.WriteLine("Error. No se pudo realizar la operación.");
         }
     }
 }
