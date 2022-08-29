@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "POO - I03 - El ejemplo universal/1.0.0": {
+        "dependencies": {
+          "Biblioteca_UTN": "1.0.0"
+        },
+        "runtime": {
+          "POO - I03 - El ejemplo universal.dll": {}
+        }
+      },
+      "Biblioteca_UTN/1.0.0": {
+        "runtime": {
+          "Biblioteca_UTN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POO - I03 - El ejemplo universal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Biblioteca_UTN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

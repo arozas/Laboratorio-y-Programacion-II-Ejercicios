@@ -1,0 +1,19 @@
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I04 - Invento argentino\bin\Debug\net5.0\POO - I04 - Invento argentino.exe
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I04 - Invento argentino\bin\Debug\net5.0\POO - I04 - Invento argentino.deps.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I04 - Invento argentino\bin\Debug\net5.0\POO - I04 - Invento argentino.runtimeconfig.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I04 - Invento argentino\bin\Debug\net5.0\POO - I04 - Invento argentino.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I04 - Invento argentino\bin\Debug\net5.0\POO - I04 - Invento argentino.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I04 - Invento argentino\bin\Debug\net5.0\POO - I04 - Invento argentino.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I04 - Invento argentino\bin\Debug\net5.0\Biblioteca_UTN.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I04 - Invento argentino\bin\Debug\net5.0\Biblioteca_UTN.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I04 - Invento argentino\obj\Debug\net5.0\POO - I04 - Invento argentino.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I04 - Invento argentino\obj\Debug\net5.0\POO - I04 - Invento argentino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I04 - Invento argentino\obj\Debug\net5.0\POO - I04 - Invento argentino.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I04 - Invento argentino\obj\Debug\net5.0\POO - I04 - Invento argentino.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I04 - Invento argentino\obj\Debug\net5.0\POO - I04 - Invento argentino.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I04 - Invento argentino\obj\Debug\net5.0\POO - I04 - Invento argentino.csproj.CopyComplete
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I04 - Invento argentino\obj\Debug\net5.0\POO - I04 - Invento argentino.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I04 - Invento argentino\obj\Debug\net5.0\refint\POO - I04 - Invento argentino.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I04 - Invento argentino\obj\Debug\net5.0\POO - I04 - Invento argentino.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I04 - Invento argentino\obj\Debug\net5.0\POO - I04 - Invento argentino.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I04 - Invento argentino\obj\Debug\net5.0\ref\POO - I04 - Invento argentino.dll

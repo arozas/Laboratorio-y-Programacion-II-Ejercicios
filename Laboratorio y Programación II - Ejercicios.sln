@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO - I01 - Creo que necesi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO - I02 - Vos cuántas primaveras tenés", "POO - I02 - Vos cuántas primaveras tenés\POO - I02 - Vos cuántas primaveras tenés.csproj", "{789BFCA3-999F-4760-A2C7-9B37EF868B2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO - I03 - El ejemplo universal", "POO - I03 - El ejemplo universal\POO - I03 - El ejemplo universal.csproj", "{47C3436F-774F-43A4-8B07-15EE081AF0AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO - I04 - Invento argentino", "POO - I04 - Invento argentino\POO - I04 - Invento argentino.csproj", "{FFFABBC3-9EF9-4789-B481-6F2D34B020A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{789BFCA3-999F-4760-A2C7-9B37EF868B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{789BFCA3-999F-4760-A2C7-9B37EF868B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{789BFCA3-999F-4760-A2C7-9B37EF868B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47C3436F-774F-43A4-8B07-15EE081AF0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C3436F-774F-43A4-8B07-15EE081AF0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C3436F-774F-43A4-8B07-15EE081AF0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C3436F-774F-43A4-8B07-15EE081AF0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFFABBC3-9EF9-4789-B481-6F2D34B020A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFABBC3-9EF9-4789-B481-6F2D34B020A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFABBC3-9EF9-4789-B481-6F2D34B020A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFABBC3-9EF9-4789-B481-6F2D34B020A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

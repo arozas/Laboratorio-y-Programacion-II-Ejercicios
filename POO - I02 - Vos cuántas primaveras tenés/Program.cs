@@ -11,14 +11,15 @@ namespace POO___I02___Vos_cuántas_primaveras_tenés
         static void Main(string[] args)
         {
             Persona[] personas = new Persona[3];
-            personas[0] = new Persona(GeneradorDeDatos.GenerarNombreAleatorio(), GeneradorDeDatos.GenerarFechaAleatoria(), GeneradorDeDatos.GenerarDNIAleatorio());
-            personas[1] = new Persona(GeneradorDeDatos.GenerarNombreAleatorio(), GeneradorDeDatos.GenerarFechaAleatoria(), GeneradorDeDatos.GenerarDNIAleatorio());
-            personas[2] = new Persona(GeneradorDeDatos.GenerarNombreAleatorio(), GeneradorDeDatos.GenerarFechaAleatoria(), GeneradorDeDatos.GenerarDNIAleatorio());
+            //personas[0] = new Persona(GeneradorDeDatos.GenerarNombreAleatorio(), GeneradorDeDatos.GenerarFechaAleatoria(), GeneradorDeDatos.GenerarDNIAleatorio());
+            //personas[1] = new Persona(GeneradorDeDatos.GenerarNombreAleatorio(), GeneradorDeDatos.GenerarFechaAleatoria(), GeneradorDeDatos.GenerarDNIAleatorio());
+            //personas[2] = new Persona(GeneradorDeDatos.GenerarNombreAleatorio(), GeneradorDeDatos.GenerarFechaAleatoria(), GeneradorDeDatos.GenerarDNIAleatorio());
 
-            foreach (Persona persona in personas)
+            for (int i = 0; i < personas.Length; i++)
             {
-                Console.WriteLine($"{persona.EsMayorDeEdad()}:");
-                persona.Mostrar();
+                personas[i] = new Persona(GeneradorDeDatos.GenerarNombreAleatorio(), GeneradorDeDatos.GenerarFechaAleatoria(), GeneradorDeDatos.GenerarNumeroAleatorio(8000000,45000000));
+                Console.WriteLine($"{personas[i].EsMayorDeEdad()}:");
+                personas[i].Mostrar();
             }
         }
 
