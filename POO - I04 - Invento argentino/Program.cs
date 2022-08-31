@@ -119,11 +119,12 @@ namespace POO___I04___Invento_argentino
                                     Console.Clear();
                                     Console.WriteLine("Escriba el mensaje:");
                                     string mensajeEscrito = Console.ReadLine();
+                                    string mensajeDevuelto;
                                     int gastoDeTinta = mensajeEscrito.Length;
                                     gastoDeTinta *= -1;
-                                    if (boligrafoRojo.Pintar((short)gastoDeTinta, mensajeEscrito, out asteriscosDibujados))
+                                    if (boligrafoRojo.Pintar((short)gastoDeTinta, mensajeEscrito, out mensajeDevuelto))
                                     {
-                                        Console.WriteLine(asteriscosDibujados);
+                                        Console.WriteLine(mensajeDevuelto);
                                         Console.ForegroundColor = ConsoleColor.White;
                                     }
                                     if (boligrafoRojo.GetTinta == 0)

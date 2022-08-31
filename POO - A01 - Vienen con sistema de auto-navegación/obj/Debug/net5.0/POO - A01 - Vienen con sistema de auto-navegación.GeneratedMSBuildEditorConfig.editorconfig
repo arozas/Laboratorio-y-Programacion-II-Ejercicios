@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = POO___A01___Vienen_con_sistema_de_auto_navegación
+build_property.ProjectDir = C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - A01 - Vienen con sistema de auto-navegación\

@@ -29,24 +29,27 @@ namespace Biblioteca_UTN
         /// Setter tinta, cambia el valor del atributo tinta.
         /// </summary>
         /// <param name="value"></param>
-        private void SetTinta(short value)
+        private short SetTinta
         {
-            if (value>0 && GetTinta < cantidadTintaMaxima && GetTinta >=0)
+            set
             {
-                tinta += value;
-                if (GetTinta > cantidadTintaMaxima)
-                {
-                    tinta = 100;
-                }
-            }
-            else
-            {
-                if (value < 0 && GetTinta > 0)
+                if (value > 0 && GetTinta < cantidadTintaMaxima && GetTinta >= 0)
                 {
                     tinta += value;
-                    if (GetTinta < 0)
+                    if (GetTinta > cantidadTintaMaxima)
                     {
-                        tinta = 0;
+                        tinta = 100;
+                    }
+                }
+                else
+                {
+                    if (value < 0 && GetTinta > 0)
+                    {
+                        tinta += value;
+                        if (GetTinta < 0)
+                        {
+                            tinta = 0;
+                        }
                     }
                 }
             }
@@ -56,7 +59,7 @@ namespace Biblioteca_UTN
         /// </summary>
         public void Recargar()
         { 
-            SetTinta(100);
+            SetTinta=100;
         }
         /// <summary>
         /// Devuelve una cantidad de astericos del color del boligrafo igual al valor ingresado o al maximo de su tinta.
@@ -77,7 +80,7 @@ namespace Biblioteca_UTN
                         auxiliarDibujo.Append("*");
                     }
                     Console.ForegroundColor = GetColor;
-                    SetTinta(gasto);
+                    SetTinta=gasto;
                     retorno = true;
                 }
                 else
@@ -87,7 +90,7 @@ namespace Biblioteca_UTN
                         auxiliarDibujo.Append("*");
                     }
                     Console.ForegroundColor = GetColor;
-                    SetTinta(gasto);
+                    SetTinta=gasto;
                     retorno = true;
                 }
             }
@@ -115,7 +118,7 @@ namespace Biblioteca_UTN
                         auxiliarDibujo.Append(auxiliarMensaje[i]);
                     }
                     Console.ForegroundColor = GetColor;
-                    SetTinta(gasto);
+                    SetTinta=gasto;
                     retorno = true;
                 }
                 else
@@ -125,7 +128,7 @@ namespace Biblioteca_UTN
                         auxiliarDibujo.Append(auxiliarMensaje[i]);
                     }
                     Console.ForegroundColor = GetColor;
-                    SetTinta(gasto);
+                    SetTinta=gasto;
                     retorno = true;
                 }
                 

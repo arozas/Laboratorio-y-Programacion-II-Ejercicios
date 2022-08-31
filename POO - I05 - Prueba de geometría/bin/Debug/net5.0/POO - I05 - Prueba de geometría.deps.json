@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "POO - I05 - Prueba de geometría/1.0.0": {
+        "dependencies": {
+          "Biblioteca_UTN": "1.0.0",
+          "Geometria": "1.0.0"
+        },
+        "runtime": {
+          "POO - I05 - Prueba de geometría.dll": {}
+        }
+      },
+      "Biblioteca_UTN/1.0.0": {
+        "runtime": {
+          "Biblioteca_UTN.dll": {}
+        }
+      },
+      "Geometria/1.0.0": {
+        "runtime": {
+          "Geometria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POO - I05 - Prueba de geometría/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Biblioteca_UTN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Geometria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -8,6 +8,7 @@ namespace Biblioteca_UTN
 {
     public class Estudiante
     {
+        //Atributos
         private string nombre;
         private string apellido;
         private string legajo;
@@ -15,19 +16,31 @@ namespace Biblioteca_UTN
         private int notaSegundoParcial;
         private static Random random;
 
+        //Constructor estatico
         static Estudiante()
         {
 
             random = new Random();
         }
-
+        //Constructor
         public Estudiante(string nombre, string apellido, string legajo)
         {
             this.nombre = nombre;
             this.apellido = apellido;
             this.legajo = legajo;
         }
-        public int SetNotaPrimerPacial { set => notaPrimerPacial = value; }
+        //Propiedades
+        public int SetNotaPrimerPacial 
+        { 
+            set
+            {
+                if (Validador.Validar(value, 0, 10))
+                {
+                    notaPrimerPacial = value;
+                }
+                
+            }
+        }
         public int SetNotaSegundoParcial { set => notaSegundoParcial = value; }
 
         private float CalcularPromedio()

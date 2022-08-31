@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>POO___A01___Vienen_con_sistema_de_auto_navegación</RootNamespace>
+  </PropertyGroup>
+
+</Project>

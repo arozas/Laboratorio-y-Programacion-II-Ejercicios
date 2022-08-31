@@ -1,0 +1,21 @@
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I05 - Prueba de geometría\bin\Debug\net5.0\POO - I05 - Prueba de geometría.exe
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I05 - Prueba de geometría\bin\Debug\net5.0\POO - I05 - Prueba de geometría.deps.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I05 - Prueba de geometría\bin\Debug\net5.0\POO - I05 - Prueba de geometría.runtimeconfig.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I05 - Prueba de geometría\bin\Debug\net5.0\POO - I05 - Prueba de geometría.runtimeconfig.dev.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I05 - Prueba de geometría\bin\Debug\net5.0\POO - I05 - Prueba de geometría.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I05 - Prueba de geometría\bin\Debug\net5.0\POO - I05 - Prueba de geometría.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I05 - Prueba de geometría\bin\Debug\net5.0\Biblioteca_UTN.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I05 - Prueba de geometría\bin\Debug\net5.0\Geometria.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I05 - Prueba de geometría\bin\Debug\net5.0\Biblioteca_UTN.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I05 - Prueba de geometría\bin\Debug\net5.0\Geometria.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I05 - Prueba de geometría\obj\Debug\net5.0\POO - I05 - Prueba de geometría.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I05 - Prueba de geometría\obj\Debug\net5.0\POO - I05 - Prueba de geometría.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I05 - Prueba de geometría\obj\Debug\net5.0\POO - I05 - Prueba de geometría.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I05 - Prueba de geometría\obj\Debug\net5.0\POO - I05 - Prueba de geometría.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I05 - Prueba de geometría\obj\Debug\net5.0\POO - I05 - Prueba de geometría.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I05 - Prueba de geometría\obj\Debug\net5.0\POO - I05 - Prueba de geometría.csproj.CopyComplete
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I05 - Prueba de geometría\obj\Debug\net5.0\POO - I05 - Prueba de geometría.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I05 - Prueba de geometría\obj\Debug\net5.0\refint\POO - I05 - Prueba de geometría.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I05 - Prueba de geometría\obj\Debug\net5.0\POO - I05 - Prueba de geometría.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I05 - Prueba de geometría\obj\Debug\net5.0\POO - I05 - Prueba de geometría.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\POO - I05 - Prueba de geometría\obj\Debug\net5.0\ref\POO - I05 - Prueba de geometría.dll

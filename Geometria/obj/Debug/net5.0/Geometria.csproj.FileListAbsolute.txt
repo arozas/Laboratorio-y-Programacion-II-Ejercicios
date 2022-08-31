@@ -1,0 +1,12 @@
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Geometria\bin\Debug\net5.0\Geometria.deps.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Geometria\bin\Debug\net5.0\Geometria.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Geometria\bin\Debug\net5.0\Geometria.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Geometria\obj\Debug\net5.0\Geometria.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Geometria\obj\Debug\net5.0\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Geometria\obj\Debug\net5.0\Geometria.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Geometria\obj\Debug\net5.0\Geometria.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Geometria\obj\Debug\net5.0\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Geometria\obj\Debug\net5.0\Geometria.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Geometria\obj\Debug\net5.0\refint\Geometria.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Geometria\obj\Debug\net5.0\Geometria.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Ejercicios\Geometria\obj\Debug\net5.0\ref\Geometria.dll
