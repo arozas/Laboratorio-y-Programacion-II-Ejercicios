@@ -9,12 +9,14 @@ namespace POO___I05___Prueba_de_geometría
         {
             Console.WriteLine("PRUEBA DE GEOMETRIA");
             Rectangulo rectanguloPrueba = new Rectangulo(10, 6, 4, 8);
-            Console.WriteLine($"El perimetro del rectangulo es: {rectanguloPrueba.GetPerimetro()}");
-            Console.WriteLine($"El área del rectangulo es: {rectanguloPrueba.GetArea()}");
-        }
-        public static void MostrarLadosRectangulo()
-        {
+            MostrarRectangulo(rectanguloPrueba);
 
+
+        }
+        public static void MostrarRectangulo(Rectangulo rectangulo)
+        {
+            Console.WriteLine($"El perimetro del rectangulo es: {rectangulo.GetPerimetro()}");
+            Console.WriteLine($"El área del rectangulo es: {rectangulo.GetArea()}");
         }
     }
    
